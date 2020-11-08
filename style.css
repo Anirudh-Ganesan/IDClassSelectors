@@ -1,0 +1,24 @@
+h1 {
+    color: chocolate;
+}
+div {
+    border: 1px solid black;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-right: 20px;
+    text-align: center;
+    line-height: 100px;
+}
+#box4 {
+    background-color: blue;
+}
+#red-box {
+    background-color: red;
+}
+#green-box {
+    background-color: green;
+}
+#yellow-box {
+    background-color: yellow;
+}
